@@ -24,6 +24,8 @@ To run this project locally, follow these steps:
 ```bash
 cd frontend
 npm install
+npm run build
+
 cd ../backend
 npm install
 ```
