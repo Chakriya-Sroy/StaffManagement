@@ -39,22 +39,25 @@ MySQO_PORT="3308"
 ```
 
 Run the backend server: 
+ - The backend server will automatically use port 8080,it can be access by http://localhost:8080
 ```bash
 npm start
 ```
 
 Run the frontend server: 
+-Access the application in your browser at http://localhost:3000
+
 ```bash
 npm run dev
 ```
 
 Testing
-- To run tests for the frontend and backend, use the following commands:
-Run the backend Test case 
+
+- Run the backend Test case 
 ```bash
 npm test
 ```
 
-Access the application in your browser at http://localhost:3000
+
 
 
