@@ -19,7 +19,7 @@ Technologies Used
 
 Getting Started
 To run this project locally, follow these steps:
-- Clone the repository :https://github.com/Chakriya-Sroy/StaffManagement
+- Clone the repository : https://github.com/Chakriya-Sroy/StaffManagement.git
 - Install dependencies:
 ```bash
 cd frontend
